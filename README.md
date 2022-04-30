@@ -6,7 +6,7 @@ This is the original image of my cat Luna.
 <img src="/input_imgs/luna.png" width="400"/>
 </p>
 
-## Color Space
+## Color Models
 
 We will be working with two different color models (RGB and HSV) as feature spaces that will act as the input of our algorithm.
 
