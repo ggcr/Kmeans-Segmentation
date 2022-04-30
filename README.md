@@ -2,7 +2,7 @@
 
 This is the original image of my cat Luna.
 
-![This is the original image of my cat :).](/input_imgs/luna.png "This is the original image of my cat :)")
+![This is the original image of my cat :).](/input_imgs/luna.png =250x"This is the original image of my cat :)")
 
 ## Color Space
 
