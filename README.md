@@ -22,4 +22,4 @@ We will be working with two different color models (RGB and HSV) as feature spac
 | k = 4 | [<img src="/output_imgs/luna_4_rgb.jpg" width="350"/>](/output_imgs/luna_4_rgb.jpg) | [<img src="/output_imgs/luna_4_hsv.jpg" width="350"/>](/output_imgs/luna_4_hsv.jpg) |
 | k = 8 | [<img src="/output_imgs/luna_8_rgb.jpg" width="350"/>](/output_imgs/luna_8_rgb.jpg) | [<img src="/output_imgs/luna_8_hsv.jpg" width="350"/>](/output_imgs/luna_8_hsv.jpg) |
 
-This is part of an optinal Lab Assignment from the [Computer Vision](http://www.cvc.uab.es/shared/teach/a102784/) course at [UAB](https://www.uab.cat/).
+This is part of an optional Lab Assignment from the [Computer Vision](http://www.cvc.uab.es/shared/teach/a102784/) course at [UAB](https://www.uab.cat/).
