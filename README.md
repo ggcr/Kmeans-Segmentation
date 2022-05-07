@@ -1,5 +1,7 @@
 # Kmeans Image Segmentation
 
+This is part of an optional Lab Assignment from the [Computer Vision](http://www.cvc.uab.es/shared/teach/a102784/) course at [UAB](https://www.uab.cat/).
+
 This is the original image of my cat Luna.
 
 <p align="center">
@@ -21,5 +23,3 @@ We will be working with two different color models (RGB and HSV) as feature spac
 | k = 2 | [<img src="/output_imgs/luna_2_rgb.jpg" width="350"/>](/output_imgs/luna_2_rgb.jpg) | [<img src="/output_imgs/luna_2_hsv.jpg" width="350"/>](/output_imgs/luna_2_hsv.jpg) |
 | k = 4 | [<img src="/output_imgs/luna_4_rgb.jpg" width="350"/>](/output_imgs/luna_4_rgb.jpg) | [<img src="/output_imgs/luna_4_hsv.jpg" width="350"/>](/output_imgs/luna_4_hsv.jpg) |
 | k = 8 | [<img src="/output_imgs/luna_8_rgb.jpg" width="350"/>](/output_imgs/luna_8_rgb.jpg) | [<img src="/output_imgs/luna_8_hsv.jpg" width="350"/>](/output_imgs/luna_8_hsv.jpg) |
-
-This is part of an optional Lab Assignment from the [Computer Vision](http://www.cvc.uab.es/shared/teach/a102784/) course at [UAB](https://www.uab.cat/).
