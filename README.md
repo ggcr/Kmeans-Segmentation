@@ -1,6 +1,6 @@
 # Kmeans Image Segmentation
 
-This is part of an optional Lab Assignment from the [Computer Vision](http://www.cvc.uab.es/shared/teach/a102784/) course at [UAB](https://www.uab.cat/).
+This is part of an optional Lab Assignment from the [Computer Vision](http://www.cvc.uab.es/) course at [UAB](https://www.uab.cat/).
 
 This is the original image of my cat Luna.
 
